@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Mine 👋
 
-<!--
-**minecaneer/minecaneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Bioinformatics @ Saarland University  
+🧬 Molecular Biology & Genetics graduate (Gebze Technical University)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+
+I’m a bioinformatics graduate student interested in applying machine learning to biological and chemical problems.
+
+My current focus includes:
+- Machine Learning for Biology  
+- Drug Discovery  
+- AI Safety & Evaluation  
+
+---
+
+## 🛠️ Skills
+
+- Python (main), R, C++ (intermediate)  
+- Machine Learning (scikit-learn)  
+- Data Analysis (pandas, numpy)  
+- Visualization & Scientific Computing  
+
+---
+
+## 📂 Projects
+
+- ⚖️ Legal Search Assistant (RAG + FAISS + Streamlit)  
+- 🔬 Interpretable ML for Toxicity Prediction *(in progress)*  
+
+---
+
+## 📈 Currently Learning
+
+- Advanced Machine Learning  
+- LLM Evaluation  
+- AI Safety  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/minecaneer
