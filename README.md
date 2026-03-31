@@ -28,7 +28,8 @@ My current focus includes:
 ## 📂 Projects
 
 - ⚖️ Legal Search Assistant (RAG + FAISS + Streamlit)  
-- 🔬 Interpretable ML for Toxicity Prediction *(research project, private repository)*  
+- 🔬 Interpretable ML for Toxicity Prediction *(research project, private repository)*
+- 🧬 RnBeads Methylation Workflow *(structured academic workflow for DNA methylation QC, preprocessing and exploratory analysis in R)*  
 
 ---
 
