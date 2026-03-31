@@ -28,7 +28,7 @@ My current focus includes:
 ## 📂 Projects
 
 - ⚖️ Legal Search Assistant (RAG + FAISS + Streamlit)  
-- 🔬 Interpretable ML for Toxicity Prediction *(in progress)*  
+- 🔬 Interpretable ML for Toxicity Prediction *(research project, private repository)*  
 
 ---
 
